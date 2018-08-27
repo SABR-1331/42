@@ -1,5 +1,5 @@
 src/*.exe
-src/sabrd
+src/SABRd
 src/build.h
 .*.swp
 *.*~*
@@ -8,11 +8,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.sabr
+.SABR
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-sabr-qt
+SABR-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
@@ -20,5 +20,6 @@ qrc_*.cpp
 #mac specific
 .DS_Store
 build
+Thumbs.db
 
 !src/leveldb/Makefile
