@@ -70,4 +70,4 @@ SABR
 DOS prompt:
 cd \SABR\src
 mingw32-make -f makefile.mingw
-strip 42d.exe
+strip SABRd.exe
